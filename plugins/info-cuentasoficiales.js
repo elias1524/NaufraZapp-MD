@@ -9,27 +9,6 @@ let str = `
 > •──────────•
 Propietario:
 wa.me/595992809980
-> •──────────•
-YouTube:
-${yt}
-> •──────────•
-TikTok:
-${gp4}
-> •──────────•
-Github:
-${md}
-> •──────────•
-Facebook:
-${fb}
-> •──────────•
-Grupo:
-${gp1}
-> •──────────•
-Paypal:
-${paypal}
-> •──────────•
-Instagram:
-${gp3}
 > •──────────•`
 await conn.sendFile(m.chat, media, 'gata.jpg', str, fkontak)}
 handler.command = /^cuentasnz|cuentasoficiales$/i
