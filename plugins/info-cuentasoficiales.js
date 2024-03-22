@@ -8,7 +8,7 @@ let str = `
 > CUENTAS OFICIALES DE NAUFRAZAPP-MD
 > •──────────•
 Propietario:
-wa.me/51929838430
+wa.me/595992809980
 > •──────────•
 YouTube:
 ${yt}
