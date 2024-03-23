@@ -1,26 +1,26 @@
 import fetch from 'node-fetch';
 const handler = async (m, {conn, command, usedPrefix}) => {
-  if (!db.data.chats[m.chat].modohorny && m.isGroup) throw '> ⚠️ *Este comando solo puede ser utilizado por mayores de edad.*';
+  if (!db.data.chats[m.chat].modohorny && m.isGroup) throw '[❗] 𝐄𝐥 𝐜𝐨𝐦𝐚𝐧𝐝𝐨 𝐩𝐚𝐫𝐚 +18 𝐞𝐬𝐭𝐚 𝐩𝐫𝐨𝐡𝐢𝐛𝐢𝐝𝐨, 𝐚𝐜𝐭𝐢𝐯𝐚𝐥𝐨 𝐮𝐬𝐚𝐧𝐝𝐨 #enable modohorny';
   switch (command) {
     case 'pack':
       const url = await pack[Math.floor(Math.random() * pack.length)];
-      conn.sendMessage(m.chat, {image: {url: url}, caption: `_🥵 Pack 🥵_`}, {quoted: m});
+      conn.sendMessage(m.chat, {image: {url: url}, caption: `_🔞 𝐏𝐀𝐂𝐊 1 🔞_`}, {quoted: m});
       break;
     case 'pack2':
       const url2 = await packgirl[Math.floor(Math.random() * packgirl.length)];
-      conn.sendMessage(m.chat, {image: {url: url2}, caption: `_🥵 Pack 🥵_`}, {quoted: m});
+      conn.sendMessage(m.chat, {image: {url: url2}, caption: `_🔞 𝐏𝐀𝐂𝐊 2🔞_`}, {quoted: m});
       break;
     case 'pack3':
       const url3 = await packmen[Math.floor(Math.random() * packmen.length)];
-      conn.sendMessage(m.chat, {image: {url: url3}, caption: `_🥵 Pack 3 🥵_`}, {quoted: m});
+      conn.sendMessage(m.chat, {image: {url: url3}, caption: `_🔞 𝐏𝐀𝐂𝐊 3 🔞_`}, {quoted: m});
       break;
     case 'videoxxx': case 'vídeoxxx':
       const url4 = await videosxxxc[Math.floor(Math.random() * videosxxxc.length)];
-      await conn.sendMessage(m.chat, {video: {url: url4}, caption: `*Video xxx*`}, {quoted: m});
+      await conn.sendMessage(m.chat, {video: {url: url4}, caption: `*ᴅɪsғʀᴜᴛᴀ ᴅᴇʟ ᴠɪᴅᴇᴏ 🥵*`}, {quoted: m});
       break;
     case 'videoxxxlesbi': case 'videolesbixxx': case 'pornolesbivid': case 'pornolesbianavid': case 'pornolesbiv': case 'pornolesbianav': case 'pornolesv':
       const url5 = await videosxxxc2[Math.floor(Math.random() * videosxxxc2.length)];
-      await conn.sendMessage(m.chat, {video: {url: url5}, caption: `*Video xxx*`}, {quoted: m});
+      await conn.sendMessage(m.chat, {video: {url: url5}, caption: `*ᴅɪsғʀᴜᴛᴀ ᴅᴇʟ ᴠɪᴅᴇᴏ 🥵*`}, {quoted: m});
       break;
   }
 };
@@ -140,12 +140,41 @@ global.videosxxxc = [
 ];
 
 global.videosxxxc2 = [
-"https://telegra.ph/file/2dfb1ad0cab22951e30d1.mp4",
-"https://telegra.ph/file/c430651857023968d3a76.mp4",
-"https://telegra.ph/file/1ba17f6230dd1ea2de48c.mp4",
-"https://telegra.ph/file/e04b802f12aafee3d314e.mp4",
-"https://telegra.ph/file/a58661697d519d3d0acbd.mp4",
-"https://telegra.ph/file/9ed60b18e79fcfebcd76c.mp4",
-"https://telegra.ph/file/d58096000ad5eaef0b05e.mp4",
-"https://telegra.ph/file/60b4c8ebeadebb7e0da06.mp4"
+  'https://l.top4top.io/m_2257y4pyl0.mp4',
+  'https://c.top4top.io/m_2274woesg0.mp4',
+  'https://k.top4top.io/m_2257pdwjy0.mp4',
+  'https://a.top4top.io/m_2257qulmx0.mp4',
+  'https://a.top4top.io/m_2257vxzr62.mp4',
+  'https://b.top4top.io/m_2257wjmbh3.mp4',
+  'https://b.top4top.io/m_2257sen2a1.mp4',
+  'https://c.top4top.io/m_2257hpo9v3.mp4',
+  'https://e.top4top.io/m_2257pye7u1.mp4',
+  'https://c.top4top.io/m_2257p7xg14.mp4',
+  'https://c.top4top.io/m_2257p4v9i3.mp4',
+  'https://l.top4top.io/m_2257jvkrv3.mp4',
+  'https://b.top4top.io/m_2257pl7wh1.mp4',
+  'https://e.top4top.io/m_2257fiwnp2.mp4',
+  'https://b.top4top.io/m_22578b1nk1.mp4',
+  'https://k.top4top.io/m_22572gv7q1.mp4',
+  'https://i.top4top.io/m_2257pu90l2.mp4',
+  'https://d.top4top.io/m_2257vcwiw3.mp4',
+  'https://j.top4top.io/m_2258joebc2.mp4',
+  'https://g.top4top.io/m_2258kvnba4.mp4',
+  'https://f.top4top.io/m_2258nm8pe1.mp4',
+  'https://g.top4top.io/m_2258af7bc2.mp4',
+  'https://l.top4top.io/m_2258f0ci92.mp4',
+  'https://j.top4top.io/m_2258ehqpb2.mp4',
+  'https://h.top4top.io/m_2258pckkf3.mp4',
+  'https://e.top4top.io/m_225857rs20.mp4',
+  'https://k.top4top.io/m_225863kpa0.mp4',
+  'https://j.top4top.io/m_2258s6we62.mp4',
+  'https://i.top4top.io/m_2258if6l13.mp4',
+  'https://b.top4top.io/m_2258lmd2h1.mp4',
+  'https://j.top4top.io/m_2258a9oah2.mp4',
+  'https://i.top4top.io/m_22588w3xh0.mp4',
+  'https://g.top4top.io/m_225885lm14.mp4',
+  'https://e.top4top.io/m_2258buxc30.mp4',
+  'https://e.top4top.io/m_2258fvra62.mp4',
+  'https://l.top4top.io/m_22588mx7k4.mp4',
+  'https://g.top4top.io/m_2258zhldg1.mp4',
 ];
