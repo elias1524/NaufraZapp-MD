@@ -13,5 +13,3 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=elias1524&show_icons=true&theme=chartreuse-dark)
 
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=elias1524&layout=compact&theme=chartreuse-dark)
-
