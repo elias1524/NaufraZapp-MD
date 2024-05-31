@@ -11,5 +11,3 @@
 
 ### *Ivan🌹*
 
-![github stats](https://github-readme-stats.vercel.app/api?username=elias1524&show_icons=true&theme=chartreuse-dark)
-
